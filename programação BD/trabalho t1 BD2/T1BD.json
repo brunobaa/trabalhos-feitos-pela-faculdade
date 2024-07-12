@@ -1,0 +1,177 @@
+{
+  "Carro": [
+    {
+      "Codigo": "CAR001",
+      "Placa": "ABC123",
+      "Marca": "Toyota",
+      "Modelo": "Corolla",
+      "Ano": 2020,
+      "Nome_Motorista": "João da Silva"
+    },
+    {
+      "Codigo": "CAR002",
+      "Placa": "XYZ789",
+      "Marca": "Honda",
+      "Modelo": "Civic",
+      "Ano": 2019,
+      "Nome_Motorista": "Maria Santos"
+    },
+    {
+      "Codigo": "CAR003",
+      "Placa": "DEF456",
+      "Marca": "Ford",
+      "Modelo": "Fiat",
+      "Ano": 2021,
+      "Nome_Motorista": "Pedro Oliveira"
+    }
+  ],
+  "Passageiro": [
+    {
+      "CPF": "90123762966",
+      "Nome": "Guilherme Guerra",
+      "Email": "gguerra@email.com",
+      "Telefone": "1234567890",
+      "Bairro": "Centro",
+      "Meio_Pagamento": 1,
+      "Avaliacao": 4
+    },
+    {
+      "CPF": "41242132414",
+      "Nome": "Joao Pedro",
+      "Email": "jpshadow@email.com",
+      "Telefone": "9876543210",
+      "Bairro": "Moinhos de Vento",
+      "Meio_Pagamento": 2,
+      "Avaliacao": 5
+    },
+    {
+      "CPF": "21456647781",
+      "Nome": "Arthur Passos",
+      "Email": "Arthurpassos@email.com",
+      "Telefone": "5556667777",
+      "Bairro": "Partenon",
+      "Meio_Pagamento": 3,
+      "Avaliacao": 4
+    },
+    {
+      "CPF": "12343657821",
+      "Nome": "Gabriel Valls",
+      "Email": "gabrielvalls@email.com",
+      "Telefone": "1112223333",
+      "Bairro": "Floresta",
+      "Meio_Pagamento": 1,
+      "Avaliacao": 3
+    },
+    {
+      "CPF": "12453466547",
+      "Nome": "Guilherme Cassol",
+      "Email": "guilhermecassol@email.com",
+      "Telefone": "9998887777",
+      "Bairro": "Cidade Baixa",
+      "Meio_Pagamento": 2,
+      "Avaliacao": 5
+    }
+  ],
+  "Viagem": [
+    {
+      "Id": "VIAG001",
+      "Kms": 10.5,
+      "Valor": 25.0,
+      "Bairro_Partida": "Centro",
+      "Taxa_Adicional": 2.0,
+      "Cidade_Destino": "Moinhos de Vento",
+      "Viagem_TIPO": 1,
+      "fk_Carro_Codigo": "CAR001"
+    },
+    {
+      "Id": "VIAG002",
+      "Kms": 8.2,
+      "Valor": 20.0,
+      "Bairro_Partida": "Moinhos de Vento",
+      "Taxa_Adicional": 1.5,
+      "Cidade_Destino": "Partenon",
+      "Viagem_TIPO": 2,
+      "fk_Carro_Codigo": "CAR002"
+    },
+    {
+      "Id": "VIAG003",
+      "Kms": 12.3,
+      "Valor": 30.0,
+      "Bairro_Partida": "Partenon",
+      "Taxa_Adicional": 2.5,
+      "Cidade_Destino": "Floresta",
+      "Viagem_TIPO": 3,
+      "fk_Carro_Codigo": "CAR003"
+    },
+    {
+      "Id": "VIAG004",
+      "Kms": 7.8,
+      "Valor": 18.0,
+      "Bairro_Partida": "Floresta",
+      "Taxa_Adicional": 1.0,
+      "Cidade_Destino": "Cidade Baixa",
+      "Viagem_TIPO": 1,
+      "fk_Carro_Codigo": "CAR001"
+    },
+    {
+      "Id": "VIAG005",
+      "Kms": 6.2,
+      "Valor": 15.0,
+      "Bairro_Partida": "Moinhos de Vento",
+      "Taxa_Adicional": 1.2,
+      "Cidade_Destino": "Partenon",
+      "Viagem_TIPO": 2,
+      "fk_Carro_Codigo": "CAR002"
+    },
+    {
+      "Id": "VIAG006",
+      "Kms": 9.5,
+      "Valor": 22.0,
+      "Bairro_Partida": "Cidade Baixa",
+      "Taxa_Adicional": 2.0,
+      "Cidade_Destino": "Centro Histórico",
+      "Viagem_TIPO": 1,
+      "fk_Carro_Codigo": "CAR003"
+    },
+    {
+      "Id": "VIAG007",
+      "Kms": 5.3,
+      "Valor": 14.0,
+      "Bairro_Partida": "Partenon",
+      "Taxa_Adicional": 0.8,
+      "Cidade_Destino": "Moinhos de Vento",
+      "Viagem_TIPO": 3,
+      "fk_Carro_Codigo": "CAR001"
+    },
+    {
+      "Id": "VIAG008",
+      "Kms": 11.1,
+      "Valor": 28.0,
+      "Bairro_Partida": "Centro",
+      "Taxa_Adicional": 3.0,
+      "Cidade_Destino": "Floresta",
+      "Viagem_TIPO": 2,
+      "fk_Carro_Codigo": "CAR002"
+    },
+    {
+      "Id": "VIAG009",
+      "Kms": 13.4,
+      "Valor": 32.0,
+      "Bairro_Partida": "Floresta",
+      "Taxa_Adicional": 2.2,
+      "Cidade_Destino": "Cidade Baixa",
+      "Viagem_TIPO": 1,
+      "fk_Carro_Codigo": "CAR003"
+    },
+    {
+      "Id": "VIAG010",
+      "Kms": 4.7,
+      "Valor": 12.0,
+      "Bairro_Partida": "Cidade Baixa",
+      "Taxa_Adicional": 0.5,
+      "Cidade_Destino": "Moinhos de Vento",
+      "Viagem_TIPO": 3,
+      "fk_Carro_Codigo": "CAR001"
+    }
+  ]
+}
