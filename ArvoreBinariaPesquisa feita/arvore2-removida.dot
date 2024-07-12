@@ -1,0 +1,213 @@
+digraph g { 
+node [shape = record,height=.1];
+
+node2[label = "<esq> | 2 | <dir> "]
+node9[label = "<esq> | 9 | <dir> "]
+node11[label = "<esq> | 11 | <dir> "]
+node17[label = "<esq> | 17 | <dir> "]
+node20[label = "<esq> | 20 | <dir> "]
+node176[label = "<esq> | 176 | <dir> "]
+node280[label = "<esq> | 280 | <dir> "]
+node320[label = "<esq> | 320 | <dir> "]
+node516[label = "<esq> | 516 | <dir> "]
+node535[label = "<esq> | 535 | <dir> "]
+node665[label = "<esq> | 665 | <dir> "]
+node698[label = "<esq> | 698 | <dir> "]
+node735[label = "<esq> | 735 | <dir> "]
+node1012[label = "<esq> | 1012 | <dir> "]
+node1033[label = "<esq> | 1033 | <dir> "]
+node1169[label = "<esq> | 1169 | <dir> "]
+node1259[label = "<esq> | 1259 | <dir> "]
+node1269[label = "<esq> | 1269 | <dir> "]
+node1272[label = "<esq> | 1272 | <dir> "]
+node1291[label = "<esq> | 1291 | <dir> "]
+node1360[label = "<esq> | 1360 | <dir> "]
+node1423[label = "<esq> | 1423 | <dir> "]
+node1600[label = "<esq> | 1600 | <dir> "]
+node1688[label = "<esq> | 1688 | <dir> "]
+node1819[label = "<esq> | 1819 | <dir> "]
+node1822[label = "<esq> | 1822 | <dir> "]
+node1843[label = "<esq> | 1843 | <dir> "]
+node1951[label = "<esq> | 1951 | <dir> "]
+node1969[label = "<esq> | 1969 | <dir> "]
+node1979[label = "<esq> | 1979 | <dir> "]
+node2141[label = "<esq> | 2141 | <dir> "]
+node2151[label = "<esq> | 2151 | <dir> "]
+node2584[label = "<esq> | 2584 | <dir> "]
+node2605[label = "<esq> | 2605 | <dir> "]
+node2651[label = "<esq> | 2651 | <dir> "]
+node2740[label = "<esq> | 2740 | <dir> "]
+node2916[label = "<esq> | 2916 | <dir> "]
+node2935[label = "<esq> | 2935 | <dir> "]
+node3143[label = "<esq> | 3143 | <dir> "]
+node3195[label = "<esq> | 3195 | <dir> "]
+node3241[label = "<esq> | 3241 | <dir> "]
+node3401[label = "<esq> | 3401 | <dir> "]
+node3547[label = "<esq> | 3547 | <dir> "]
+node3696[label = "<esq> | 3696 | <dir> "]
+node3743[label = "<esq> | 3743 | <dir> "]
+node3773[label = "<esq> | 3773 | <dir> "]
+node3867[label = "<esq> | 3867 | <dir> "]
+node3920[label = "<esq> | 3920 | <dir> "]
+node4121[label = "<esq> | 4121 | <dir> "]
+node4247[label = "<esq> | 4247 | <dir> "]
+node4504[label = "<esq> | 4504 | <dir> "]
+node4940[label = "<esq> | 4940 | <dir> "]
+node5039[label = "<esq> | 5039 | <dir> "]
+node5106[label = "<esq> | 5106 | <dir> "]
+node5127[label = "<esq> | 5127 | <dir> "]
+node5221[label = "<esq> | 5221 | <dir> "]
+node5230[label = "<esq> | 5230 | <dir> "]
+node5314[label = "<esq> | 5314 | <dir> "]
+node5682[label = "<esq> | 5682 | <dir> "]
+node5727[label = "<esq> | 5727 | <dir> "]
+node5874[label = "<esq> | 5874 | <dir> "]
+node5899[label = "<esq> | 5899 | <dir> "]
+node6170[label = "<esq> | 6170 | <dir> ", color=blue]
+node6269[label = "<esq> | 6269 | <dir> "]
+node6352[label = "<esq> | 6352 | <dir> "]
+node6433[label = "<esq> | 6433 | <dir> "]
+node6450[label = "<esq> | 6450 | <dir> "]
+node6497[label = "<esq> | 6497 | <dir> "]
+node6504[label = "<esq> | 6504 | <dir> "]
+node6725[label = "<esq> | 6725 | <dir> "]
+node6734[label = "<esq> | 6734 | <dir> "]
+node6758[label = "<esq> | 6758 | <dir> "]
+node6901[label = "<esq> | 6901 | <dir> "]
+node6921[label = "<esq> | 6921 | <dir> "]
+node7263[label = "<esq> | 7263 | <dir> "]
+node7278[label = "<esq> | 7278 | <dir> "]
+node7447[label = "<esq> | 7447 | <dir> "]
+node7520[label = "<esq> | 7520 | <dir> "]
+node7668[label = "<esq> | 7668 | <dir> "]
+node7809[label = "<esq> | 7809 | <dir> "]
+node7900[label = "<esq> | 7900 | <dir> "]
+node7908[label = "<esq> | 7908 | <dir> "]
+node8023[label = "<esq> | 8023 | <dir> "]
+node8036[label = "<esq> | 8036 | <dir> "]
+node8185[label = "<esq> | 8185 | <dir> "]
+node8234[label = "<esq> | 8234 | <dir> "]
+node8307[label = "<esq> | 8307 | <dir> "]
+node8356[label = "<esq> | 8356 | <dir> "]
+node8424[label = "<esq> | 8424 | <dir> "]
+node8455[label = "<esq> | 8455 | <dir> "]
+node8483[label = "<esq> | 8483 | <dir> "]
+node8881[label = "<esq> | 8881 | <dir> "]
+node8960[label = "<esq> | 8960 | <dir> "]
+node9021[label = "<esq> | 9021 | <dir> "]
+node9204[label = "<esq> | 9204 | <dir> "]
+node9448[label = "<esq> | 9448 | <dir> "]
+node9454[label = "<esq> | 9454 | <dir> "]
+node9579[label = "<esq> | 9579 | <dir> "]
+node9717[label = "<esq> | 9717 | <dir> "]
+node9762[label = "<esq> | 9762 | <dir> "]
+node9892[label = "<esq> | 9892 | <dir> "]
+node9900[label = "<esq> | 9900 | <dir> "]
+node9922[label = "<esq> | 9922 | <dir> "]
+node9995[label = "<esq> | 9995 | <dir> "]
+
+"node9":esq -> "node2" 
+"node9":dir -> "node11" 
+"node17":esq -> "node9" 
+"node320":dir -> "node516" 
+"node280":dir -> "node320" 
+"node176":dir -> "node280" 
+"node535":esq -> "node176" 
+"node698":esq -> "node665" 
+"node698":dir -> "node735" 
+"node535":dir -> "node698" 
+"node1012":esq -> "node535" 
+"node1033":dir -> "node1169" 
+"node1259":esq -> "node1033" 
+"node1272":dir -> "node1291" 
+"node1360":esq -> "node1272" 
+"node1360":dir -> "node1423" 
+"node1269":dir -> "node1360" 
+"node1600":esq -> "node1269" 
+"node1819":esq -> "node1688" 
+"node1819":dir -> "node1822" 
+"node1600":dir -> "node1819" 
+"node1843":esq -> "node1600" 
+"node1951":esq -> "node1843" 
+"node1979":esq -> "node1969" 
+"node1951":dir -> "node1979" 
+"node2141":esq -> "node1951" 
+"node2605":esq -> "node2584" 
+"node2605":dir -> "node2651" 
+"node2151":dir -> "node2605" 
+"node2141":dir -> "node2151" 
+"node1259":dir -> "node2141" 
+"node1012":dir -> "node1259" 
+"node2740":esq -> "node1012" 
+"node2916":dir -> "node2935" 
+"node3143":esq -> "node2916" 
+"node3143":dir -> "node3195" 
+"node3241":esq -> "node3143" 
+"node3547":esq -> "node3401" 
+"node3696":esq -> "node3547" 
+"node3743":esq -> "node3696" 
+"node3867":esq -> "node3773" 
+"node4121":esq -> "node3920" 
+"node4247":esq -> "node4121" 
+"node3867":dir -> "node4247" 
+"node4504":esq -> "node3867" 
+"node3743":dir -> "node4504" 
+"node4940":esq -> "node3743" 
+"node5039":dir -> "node5106" 
+"node5127":esq -> "node5039" 
+"node5221":esq -> "node5127" 
+"node5221":dir -> "node5230" 
+"node5314":esq -> "node5221" 
+"node5314":dir -> "node5682" 
+"node5727":esq -> "node5314" 
+"node5874":esq -> "node5727" 
+"node5874":dir -> "node5899" 
+"node4940":dir -> "node5874" 
+"node3241":dir -> "node4940" 
+"node2740":dir -> "node3241" 
+"node6170":esq -> "node2740" 
+"node6352":esq -> "node6269" 
+"node6497":esq -> "node6450" 
+"node6433":dir -> "node6497" 
+"node6504":esq -> "node6433" 
+"node6734":esq -> "node6725" 
+"node6504":dir -> "node6734" 
+"node6352":dir -> "node6504" 
+"node6758":esq -> "node6352" 
+"node6921":esq -> "node6901" 
+"node7263":dir -> "node7278" 
+"node7447":esq -> "node7263" 
+"node7520":dir -> "node7668" 
+"node7447":dir -> "node7520" 
+"node6921":dir -> "node7447" 
+"node7809":esq -> "node6921" 
+"node8023":esq -> "node7908" 
+"node8185":esq -> "node8036" 
+"node8185":dir -> "node8234" 
+"node8023":dir -> "node8185" 
+"node7900":dir -> "node8023" 
+"node8307":esq -> "node7900" 
+"node8424":esq -> "node8356" 
+"node8455":dir -> "node8483" 
+"node8424":dir -> "node8455" 
+"node8307":dir -> "node8424" 
+"node7809":dir -> "node8307" 
+"node6758":dir -> "node7809" 
+"node8881":esq -> "node6758" 
+"node9021":esq -> "node8960" 
+"node9448":esq -> "node9204" 
+"node9579":esq -> "node9454" 
+"node9448":dir -> "node9579" 
+"node9717":esq -> "node9448" 
+"node9995":esq -> "node9922" 
+"node9900":dir -> "node9995" 
+"node9892":dir -> "node9900" 
+"node9762":dir -> "node9892" 
+"node9717":dir -> "node9762" 
+"node9021":dir -> "node9717" 
+"node8881":dir -> "node9021" 
+"node6170":dir -> "node8881" 
+"node20":dir -> "node6170" 
+"node17":dir -> "node20" 
+}
+
